@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "roboxmaker:block/robot_part_block"
+    }
+  }
+}

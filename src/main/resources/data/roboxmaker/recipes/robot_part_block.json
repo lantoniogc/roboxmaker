@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "roboxmaker:robot_part"
+    }
+  },
+  "result": {
+    "item": "roboxmaker:robot_part_block"
+  }
+}

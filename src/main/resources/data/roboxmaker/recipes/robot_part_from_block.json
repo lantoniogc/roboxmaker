@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "roboxmaker:robot_part_block"
+    }
+  ],
+  "result": {
+    "item": "roboxmaker:robot_part",
+    "count": 9
+  }
+}
